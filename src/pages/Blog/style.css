@@ -1,0 +1,42 @@
+.Blog-wrap{
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.Blog-goBack{
+    text-decoration: none;
+    font-size: .8rem;
+    color: #a9a9a9;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    display: block;
+}
+
+.Blog-wrap header{
+    text-align: center;
+}
+
+.Blog-date{
+    font-size: .8rem;
+    color:#a9a9a9;
+    font-weight: 500;
+}
+
+.Blog-wrap img{
+    width: 100%;
+}
+
+.Blog-subCategory{
+    display: flex;
+    justify-content: center;
+
+}
+
+.Blog-subCategory > div{
+    margin: 1rem;
+}
+
+.Blog-des{
+    padding: 1rem;
+    margin-top: 1.5rem;
+}
